@@ -4,7 +4,7 @@ cask "inkvolt-pdf" do
 
   url "https://github.com/gabandres/inkvolt/releases/download/pdf-mac-v#{version}/Inkvolt-PDF-#{version}.dmg"
   name "Inkvolt PDF"
-  desc "Free, private PDF reader and editor: fill and sign, edit text, redact, OCR, export to Word"
+  desc "Free, private PDF reader and editor: fill and sign, edit, redact, OCR, export"
   homepage "https://bermudezsystems.com/products/inkvolt/"
 
   livecheck do
