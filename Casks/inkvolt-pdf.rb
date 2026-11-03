@@ -1,6 +1,6 @@
 cask "inkvolt-pdf" do
-  version "1.4.1"
-  sha256 "19599db736f1e8907a797584c1b341cd486b2d4e7f2ba811716f85c9346c5ac7"
+  version "1.5.0"
+  sha256 "b4ebacaba2c6e436a91eb60501ccdeab414b709bb00f8e1ea6065a6fc71fae4c"
 
   url "https://github.com/gabandres/inkvolt/releases/download/pdf-mac-v#{version}/Inkvolt-PDF-#{version}.dmg"
   name "Inkvolt PDF"
